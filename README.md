@@ -1,4 +1,4 @@
 # Login1
 #### Simple login screen built using bootstrap and javascript
 
-Live Version: https://mustafallica.github.io/Login1/
+Live Version: https://mustafallica.github.io/LoginPage/
